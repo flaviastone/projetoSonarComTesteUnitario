@@ -1,0 +1,14 @@
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.exe
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.deps.json
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.json
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.dll
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.pdb
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.0\Alura.LeilaoOnline.Core.dll
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.dll
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.0\Alura.LeilaoOnline.ConsoleApp.pdb

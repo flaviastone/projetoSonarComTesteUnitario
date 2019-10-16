@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Alura.LeilaoOnline.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Alura.LeilaoOnline.Core": "1.0.0",
+          "OpenCover": "4.7.922"
+        },
+        "runtime": {
+          "Alura.LeilaoOnline.ConsoleApp.dll": {}
+        }
+      },
+      "OpenCover/4.7.922": {},
+      "Alura.LeilaoOnline.Core/1.0.0": {
+        "runtime": {
+          "Alura.LeilaoOnline.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alura.LeilaoOnline.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenCover/4.7.922": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mwqq3r8cHj7qazNzWp1K9zmU15amC9bzMvFK83zM4D+ATSN/IOkJGZh6kEvXnTVJjl6LN6U/4QCdRHxulAISuA==",
+      "path": "opencover/4.7.922",
+      "hashPath": "opencover.4.7.922.nupkg.sha512"
+    },
+    "Alura.LeilaoOnline.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
