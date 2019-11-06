@@ -1,0 +1,298 @@
+{
+ "C:\\Users\\flavia.almeida\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.XUnit.Testes\\bin\\Debug\\netcoreapp2.1\\Alura.LeilaoOnline.Core.dll": {
+  "C:\\Users\\flavia.almeida\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Interessada.cs": {
+   "Alura.LeilaoOnline.Core.Interessada": {
+    "System.String Alura.LeilaoOnline.Core.Interessada::get_Nome()": {
+     "Lines": {
+      "5": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "Alura.LeilaoOnline.Core.Leilao Alura.LeilaoOnline.Core.Interessada::get_Leilao()": {
+     "Lines": {
+      "6": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "C:\\Users\\flavia.almeida\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Lance.cs": {
+   "Alura.LeilaoOnline.Core.Lance": {
+    "Alura.LeilaoOnline.Core.Interessada Alura.LeilaoOnline.Core.Lance::get_Cliente()": {
+     "Lines": {
+      "7": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Double Alura.LeilaoOnline.Core.Lance::get_Valor()": {
+     "Lines": {
+      "8": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "C:\\Users\\flavia.almeida\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Leilao.cs": {
+   "Alura.LeilaoOnline.Core.Leilao": {
+    "System.Collections.Generic.IEnumerable`1<Alura.LeilaoOnline.Core.Lance> Alura.LeilaoOnline.Core.Leilao::get_Lances()": {
+     "Lines": {
+      "20": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String Alura.LeilaoOnline.Core.Leilao::get_Peca()": {
+     "Lines": {
+      "21": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "Alura.LeilaoOnline.Core.Lance Alura.LeilaoOnline.Core.Leilao::get_Ganhador()": {
+     "Lines": {
+      "22": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "Alura.LeilaoOnline.Core.EstadoLeilao Alura.LeilaoOnline.Core.Leilao::get_Estado()": {
+     "Lines": {
+      "23": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Boolean Alura.LeilaoOnline.Core.Leilao::NovoLanceAceito(Alura.LeilaoOnline.Core.Interessada,System.Double)": {
+     "Lines": {
+      "36": {
+       "Hits": 0
+      },
+      "37": {
+       "Hits": 0
+      },
+      "38": {
+       "Hits": 0
+      },
+      "39": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "37": [{
+       "Offset": 8,
+       "EndOffset": 10,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 8,
+       "EndOffset": 24,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    },
+    "System.Void Alura.LeilaoOnline.Core.Leilao::RecebeLance(Alura.LeilaoOnline.Core.Interessada,System.Double)": {
+     "Lines": {
+      "43": {
+       "Hits": 0
+      },
+      "44": {
+       "Hits": 0
+      },
+      "45": {
+       "Hits": 0
+      },
+      "46": {
+       "Hits": 0
+      },
+      "47": {
+       "Hits": 0
+      },
+      "48": {
+       "Hits": 0
+      },
+      "50": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "44": [{
+       "Offset": 11,
+       "EndOffset": 13,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 11,
+       "EndOffset": 41,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    },
+    "System.Void Alura.LeilaoOnline.Core.Leilao::IniciaPregao()": {
+     "Lines": {
+      "53": {
+       "Hits": 0
+      },
+      "54": {
+       "Hits": 0
+      },
+      "55": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void Alura.LeilaoOnline.Core.Leilao::TerminaPregao()": {
+     "Lines": {
+      "58": {
+       "Hits": 0
+      },
+      "59": {
+       "Hits": 0
+      },
+      "60": {
+       "Hits": 0
+      },
+      "61": {
+       "Hits": 0
+      },
+      "64": {
+       "Hits": 0
+      },
+      "65": {
+       "Hits": 0
+      },
+      "67": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "59": [{
+       "Offset": 15,
+       "EndOffset": 17,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 15,
+       "EndOffset": 29,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    }
+   }
+  },
+  "C:\\Users\\flavia.almeida\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\MaiorOferta.cs": {
+   "Alura.LeilaoOnline.Core.MaiorOferta": {
+    "Alura.LeilaoOnline.Core.Lance Alura.LeilaoOnline.Core.MaiorOferta::Avalia(Alura.LeilaoOnline.Core.Leilao)": {
+     "Lines": {
+      "8": {
+       "Hits": 0
+      },
+      "9": {
+       "Hits": 0
+      },
+      "10": {
+       "Hits": 0
+      },
+      "11": {
+       "Hits": 0
+      },
+      "12": {
+       "Hits": 0
+      },
+      "13": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "9": [{
+       "Offset": 33,
+       "EndOffset": 35,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 33,
+       "EndOffset": 58,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    }
+   }
+  },
+  "C:\\Users\\flavia.almeida\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\OfertaSuperiorMaisProxima.cs": {
+   "Alura.LeilaoOnline.Core.OfertaSuperiorMaisProxima": {
+    "System.Double Alura.LeilaoOnline.Core.OfertaSuperiorMaisProxima::get_ValorDestino()": {
+     "Lines": {
+      "7": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "Alura.LeilaoOnline.Core.Lance Alura.LeilaoOnline.Core.OfertaSuperiorMaisProxima::Avalia(Alura.LeilaoOnline.Core.Leilao)": {
+     "Lines": {
+      "14": {
+       "Hits": 0
+      },
+      "15": {
+       "Hits": 0
+      },
+      "16": {
+       "Hits": 0
+      },
+      "17": {
+       "Hits": 0
+      },
+      "18": {
+       "Hits": 0
+      },
+      "19": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "15": [{
+       "Offset": 50,
+       "EndOffset": 52,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 50,
+       "EndOffset": 75,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,16 @@
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.deps.json
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.runtimeconfig.json
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.runtimeconfig.dev.json
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.dll
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.pdb
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.csprojAssemblyReference.cache
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.AssemblyInfoInputs.cache
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.AssemblyInfo.cs
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.csproj.CopyComplete
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.dll
+C:\Users\flavia.almeida\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.XUnit.Testes\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.XUnit.Testes.pdb
