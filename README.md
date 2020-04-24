@@ -5,5 +5,5 @@
 
 [![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/stone-payments-flavia-novoProjeto?server=https://gandalf.stone.com.br&style=plastic)](https://gandalf.stone.com.br/dashboard/index/stone-payments-flavia-novoProjeto)
 
-![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/tetes?server=https%3A%2F%2Fshields.io&sonarVersion=7.3)
+![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/stone-payments-flavia-novoProjeto?server=https://gandalf.stone.com.br&sonarVersion=7.3)
 Teste para validação do uso da integração do sonarqube com o azure devops
