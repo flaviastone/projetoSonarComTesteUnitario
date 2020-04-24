@@ -7,6 +7,10 @@
 
 
 
-![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/stone-payments-flavia-novoProjeto?server=https://gandalf.stone.com.br&sonarVersion=7.3&style=plastic)
+![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/stone-payments-flavia-novoProjeto?server=https://![Sonar Quality Gate](https://img.shields.io/sonar/alert_status/teste?server=https%3A%2F%2Fteste.io&sonarVersion=7.3)&sonarVersion=7.3&style=plastic)
+
+
+
+![Sonar Quality Gate](https://img.shields.io/sonar/alert_status/stone-payments-flavia-novoProjeto?server=https%3A%2F%2Fgandalf.stone.com&sonarVersion=7.3)
 
 Teste para validação do uso da integração do sonarqube com o azure devops
