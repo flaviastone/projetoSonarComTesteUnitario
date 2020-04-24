@@ -8,7 +8,7 @@
 
 [![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/stone-payments-flavia-novoProjeto?server=https://gandalf.stone.com.br&sonarVersion=7.3)](https://gandalf.stone.com.br/dashboard/index/stone-payments-flavia-novoProjeto)
 
-[![Bugs](https://gandalf.stone.com.br/api/project_badges/measure?project=stone-payments-flavia-novoProjeto&metric=bugs)](https://gandalf.stone.com.br/dashboard?id=stone-payments-flavia-novoProjeto)
+[![Quality_Gate](https://gandalf.stone.com.br/api/project_badges/quality_gate?project=stone-payments-flavia-novoProjeto)](https://gandalf.stone.com.br/dashboard?id=stone-payments-flavia-novoProjeto)
 
 [![Code Smells](https://gandalf.stone.com.br/api/project_badges/measure?project=stone-payments-flavia-novoProjeto&metric=code_smells)](https://gandalf.stone.com.br/dashboard?id=stone-payments-flavia-novoProjeto)
 
