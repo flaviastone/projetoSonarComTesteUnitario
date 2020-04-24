@@ -10,7 +10,7 @@
 
 [![Bugs](https://gandalf.stone.com.br/api/project_badges/measure?project=stone-payments-flavia-novoProjeto&metric=bugs)](https://gandalf.stone.com.br/dashboard?id=stone-payments-flavia-novoProjeto)
 
-[![Code Smells](https://gandalf.stone.com.br/api/project_badges/measure?project=PocProjetoTestePlugins&metric=code_smells)](https://gandalf.stone.com.br/dashboard?id=PocProjetoTestePlugins)
+[![Code Smells](https://gandalf.stone.com.br/api/project_badges/measure?project=stone-payments-flavia-novoProjeto&metric=code_smells)](https://gandalf.stone.com.br/dashboard?id=stone-payments-flavia-novoProjeto)
 
 
 
