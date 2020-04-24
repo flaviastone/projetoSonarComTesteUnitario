@@ -1,6 +1,6 @@
 # projetoSonarComTesteUnitario
 
-[![Sonar Quality Gate](https://gandalf.stone.com.br/api//project_badges/gate?key=stone-payments-flavia-novoProjeto)](https://gandalf.stone.com.br/dashboard/index/stone-payments-flavia-novoProjeto)
+[![Sonar Quality Gate](https://gandalf.stone.com.br/api/project_badges/gate?key=stone-payments-flavia-novoProjeto)](https://gandalf.stone.com.br/dashboard/index/stone-payments-flavia-novoProjeto)
 
 [![Build Status](https://dev.azure.com/sto-ops/POC_DevSec/_apis/build/status/POC_DevSec-ASP.NET%20Core%20(.NET%20Framework)-CI?branchName=master)](https://dev.azure.com/sto-ops/POC_DevSec/_build/latest?definitionId=13&branchName=master)
 
