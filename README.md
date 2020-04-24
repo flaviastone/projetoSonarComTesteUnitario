@@ -10,7 +10,7 @@
 
 [![Sonar Quality Gate](https://gandalf.stone.com.br/api/project_badges/quality_gate?project=stone-payments-flavia-novoProjeto)](https://gandalf.stone.com.br/dashboard?id=stone-payments-flavia-novoProjeto)
 
-[![Code Smells](https://gandalf.stone.com.br/api/project_badges/measure?project=stone-payments-flavia-novoProjeto&metric=code_smells)](https://gandalf.stone.com.br/dashboard?id=stone-payments-flavia-novoProjeto)
+[![Code Smells](https://gandalf.stone.com.br/api/project_badges/measure?project=stone-payments-flavia-novoProjeto&metric=code_smells)](https://gandalf.stone.com.br/dashboard/index/stone-payments-flavia-novoProjeto)
 
 
 
